@@ -1,21 +1,103 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Pranav Choudhary</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A Passionate Full-Stack Developer from India 🚀</h3>
 
-- 🌱 I’m currently learning **Node JS, Angular JS, Mongo DB & Express JS**
+---
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, SCSS, Bootstrap, Metrial UI and etc.**
+<!-- Quick Info Section -->
+- 🔭 I’m currently working on **Microservices and SOA**
+- 🌱 I’m currently learning **CI/CD, Docker, LangChain, AI, and Chatbots with Node.js**
+- 💬 Ask me about **React, Node.js, C#, SQL, REST APIs, and Microservices**
+- 📫 Reach me at **pranavchoudhary2912@gmail.com**
+- 📄 [My Resume](https://drive.google.com/file/d/1UX0w_08w8OLWudLiKc9jFQQheH03-9Lc/view)
+- 🌐 [My Portfolio](https://pranav-choudhary.netlify.app/)
 
-- 📫 How to reach me **pranavchoudhary2912@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12LCUjtELXJNt-MkHwqolLlP319j1gBD5/view?usp=drivesdk](https://drive.google.com/file/d/12LCUjtELXJNt-MkHwqolLlP319j1gBD5/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-choudhary-504971227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-choudhary-504971227" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/pranavchoudhary2001?igshid=mzrlodbinwflza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/pranavchoudhary2001?igshid=mzrlodbinwflza==" height="30" width="40" /></a>
+<!-- Connect Section -->
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-choudhary-504971227" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/pranavchoudhary2001?igshid=mzrlodbinwflza==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:pranavchoudhary2912@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-29&show_icons=true&locale=en&layout=compact" alt="pranav-29" /></p>
+<!-- Skills Section -->
+<h3 align="center">🛠️ Skills & Tools</h3>
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,sass,tailwind" alt="Frontend Skills" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,docker" alt="Backend Skills" />
+  <br/>
+  <!-- Databases & Other -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,graphql" alt="Database Skills" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,azure,linux,jenkins,postman" alt="Tools and CI/CD" />
+</p>
+
+---
+
+<!-- Experience Section -->
+<h3 align="center">💼 My Experience</h3>
+
+- **Freelancer** | *2021 - Present*  
+   - Developed modern web applications with **React**, **MUI**, and **Tailwind CSS**.  
+   - Scalable backend solutions using **Node.js**, **Express.js**, and **MongoDB**.  
+   - Delivered end-to-end solutions with a focus on client satisfaction.
+
+- **Full-Time Developer** | *2024 - Present*  
+   - Designed **Microservices** and **SOA** architectures for scalable systems.  
+   - Built optimized frontend interfaces with **React**, **Vite**, and **Tailwind CSS**.  
+   - Engineered virtual storage servers with dynamic file uploads.  
+   - Currently learning and integrating **CI/CD pipelines**, **Docker**, and **AI Chatbots**.
+
+---
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-29&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-29&theme=react" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-29&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
+
+<!-- GitHub Repositories Carousel -->
+<h3 align="center">🚀 Featured Projects</h3>
+<p align="center">
+  <!-- Placeholder for Projects -->
+  <a href="https://github.com/pranav-29/project1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-29&repo=project1&theme=react" />
+  </a>
+  <a href="https://github.com/pranav-29/project2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-29&repo=project2&theme=react" />
+  </a>
+  <a href="https://github.com/pranav-29?tab=repositories" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-29&theme=vue" alt="Repos per Language" />
+  </a>
+</p>
+
+---
+
+<!-- Fun & Interaction -->
+<h3 align="center">🎉 Fun & Stats</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranav-29&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">🚀 Visit My Portfolio: <a href="https://pranav-choudhary.netlify.app/">pranav-choudhary.netlify.app</a></p>
+<p align="center">Made with ❤️ by Pranav Choudhary</p>
