@@ -80,12 +80,12 @@
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
   <!-- Placeholder for Projects -->
-  <a href="https://github.com/pranav-29/project1" target="_blank">
+<!--   <a href="https://github.com/pranav-29/project1" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-29&repo=project1&theme=react" />
   </a>
   <a href="https://github.com/pranav-29/project2" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-29&repo=project2&theme=react" />
-  </a>
+  </a> -->
   <a href="https://github.com/pranav-29?tab=repositories" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-29&theme=vue" alt="Repos per Language" />
   </a>
